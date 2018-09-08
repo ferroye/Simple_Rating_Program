@@ -1,5 +1,3 @@
-README
-
 
 I. Getting Started: 
 1.first import sqlite3 and download the sqlite3 brower database
@@ -16,11 +14,11 @@ Please remove the file if you want to run AdminBMGT404 again.
 
 
 II. Use the application
-1.Run userBMGT404.py - python userBMGT404.py
+1.Run DB_backend.py then  - python use py
 2.Enter keyword
 
 
-# we do not have much tables. in real world there could be a lot of tables which we do not have.
-# for example course can have Prerequisite. which we do not have. 
-# rating to calculate rating for each professors. using complex sql which cause lots of work we will ommit.
-# no password validation.
+ This do not have much tables. in real world there could be a lot of tables which we do not have.
+ for example course can have Prerequisite. which we do not have. 
+ rating to calculate rating for each professors. using complex sql which cause lots of work we will ommit.
+ no password validation.
